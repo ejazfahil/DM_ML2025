@@ -1,4 +1,4 @@
-# Thermal Image Detection — 2025-03-13
+# Thermal Image Detection — 2025-06-19
 
 Detect hotspots and faults in industrial thermal images.
 
