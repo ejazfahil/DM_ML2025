@@ -1,4 +1,4 @@
-"""Thermal preprocessing. 2025-05-02"""
+"""Thermal preprocessing. 2025-06-19"""
 import numpy as np
 
 def normalize(img, vmin=None, vmax=None):
