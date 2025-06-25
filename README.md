@@ -1,4 +1,4 @@
-# DM_ML2025 — Thermal Detection — 2025-06-06
+# DM_ML2025 — Thermal Detection — 2025-06-25
 
 | Method | Precision | Recall | F1 |
 |--------|-----------|--------|----|
